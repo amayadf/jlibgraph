@@ -127,6 +127,7 @@ Para contribuir al proyecto, debe clonar primero el repositorio. En la rama `mai
 
 La siguiente lista se encuentra ordenada alfabéticamente. Siéntase libre de incluirse en ella si ha hecho alguna contribución al proyecto, sólo manténgala ordenada, por favor:
 
+- A. Delgado🌙(@amayadf)
 - J. García:mango:(@JoseCarlosGarcia)
 - J. Marrero:robot:(@JavierMarrero)
 - A. Méndez:watermelon:(@Amy-Mendez)
